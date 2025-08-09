@@ -98,9 +98,20 @@ This focused and strategic approach guides my continuous learning journey and ca
   <a href="https://github.com/LucaDramisino">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LucaDramisino&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
+  <a href="https://github.com/LucaDramisino">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LucaDramisino&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaDramisino&layout=compact&langs_count=8&theme=algolia&hide_border=true" />
+
+
+
+
+
+
+
+
+
 
 
 
