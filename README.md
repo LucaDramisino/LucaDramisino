@@ -90,7 +90,30 @@ This focused and strategic approach guides my continuous learning journey and ca
 
 ## Contact Me 📩
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luca_dramisino/) [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x-twitter&logoColor=white)](https://x.com/Luca_Dramisino) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luca-dramisino-a79845371) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/EsvzGsZHPM) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=luca.dramisino.2007@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luca_dramisino/) [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x-twitter&logoColor=white)](https://x.com/Luca_Dramisino) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luca-dramisino-a79845371) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/EsvzGsZHPM) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=luca.dramisino.2007@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucaDramisino)
+
+
+## 📊 GitHub Stats
+
+  <a href="https://github.com/LucaDramisino">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LucaDramisino&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+</p>
+
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaDramisino&layout=compact&langs_count=8&theme=algolia&hide_border=true" />
+
+
+
+   
+
+
+
+
+
+
+
+
+
 
 
 
