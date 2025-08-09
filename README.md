@@ -1,17 +1,8 @@
 <h1 align="center">Hi, I'm Luca Dramisino <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1500&color=5A9BD5&background=FFFFFF00&width=500&lines=Aspiring+AI+Engineer" alt="Aspiring AI Engineer" />
-  </a>
-</p>
-
-
-
-
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20AI%20Engineer&;ACfont=Fira%20Code&center=true&width=440&height=45" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20AI%20Engineer&;ACfont=Fira%20Code&center=true&width=440&height=30" alt="Typing SVG">
   </a>
 </p>
 
