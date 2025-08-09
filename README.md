@@ -1,21 +1,19 @@
 <h1 align="center">Hi, I'm Luca Dramisino <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20AI%20Engineer&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20AI%20Engineer&;ACfont=Fira%20Code&center=true&width=440&height=45" alt="Typing SVG">
+  </a>
 </p>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" alt="About Me"></picture> About Me
 
 🚀 Aspiring tech professional focused on building strong foundations in **Python**, **Linux**, and **cybersecurity** to specialize in **Artificial Intelligence**, **automation**, and **high-value technical skills**.
 
-<h2 style="font-size:1.5em; font-weight:bold;">
- 📖 My Story 
-</h2>
+<h2 style="font-size:1.5em; font-weight:bold;">📖 My Story</h2>
 
 <details>
-  <summary style="font-size:1.2em; cursor:pointer; user-select:none;">
-    Read more 🔍
-  </summary>
+  <summary style="font-size:1.2em; cursor:pointer; user-select:none;">Read 🔍</summary>
 
 Since I was very young, I have been passionate about console video games, but everything changed when I was 14 years old and started to get interested in playing with a keyboard and mouse, especially Fortnite.
 
@@ -35,10 +33,10 @@ Recently, my brother acquired a high-performance PC that I now use to seriously 
 
 ## 🛠 Technologies & Tools
 
-- Python 🐍 (currently learning)
-- Linux 🐧 (currently learning)
-- Git & GitHub 🔧 (basic knowledge)
-- SQL 🗃️ (beginner)
+- Python 🐍 (currently learning)  
+- Linux 🐧 (currently learning)  
+- Git & GitHub 🔧 (basic knowledge)  
+- SQL 🗃️ (beginner)  
 
 ## 🎯 Learning Goals & Vision
 
@@ -57,5 +55,32 @@ This focused and strategic approach guides my continuous learning journey and ca
 ## 🌐 Languages
 
 - Spanish: Native  
-- English: Intermediate 
+- English: Intermediate (actively improving)
+
+
+
+## 📊 Projects & Progress
+
+<details>
+  <summary style="font-size:1.2em; cursor:pointer; user-select:none;">Show 📁 </summary>
+
+### Project 1 - [Nombre del proyecto]
+**Descripción:** 
+
+**Fecha:**
+
+**Link:** [Repositorio o demo](#)
+
+---
+
+### Project 2 - [Nombre del proyecto]
+**Descripción:** 
+
+**Fecha:**   
+
+**Link:** [Repositorio o demo](#)
+
+
+
+
 
