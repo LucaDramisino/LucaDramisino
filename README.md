@@ -31,20 +31,26 @@ Recently, my brother acquired a high-performance PC that I now use to seriously 
 
 </details>
 
-## 🛠 Technologies & Tools
+## 🖥 Operating Systems  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
-- Python 🐍 (currently learning)  
-- Linux 🐧 (currently learning)  
-- Git & GitHub 🔧 (basic knowledge)  
-- SQL 🗃️ (beginner)  
+## 💻 Programming Languages  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)  
+
+## 🛠 Tools & Platforms  
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+
 
 ## 🎯 Learning Goals & Vision
 
 I am currently focused on building a strong technical foundation by learning:
 
-- **Python**: programming, data manipulation, and automation  
-- **Linux**: mastering operating systems and development environments  
-- **SQL**: managing and querying databases efficiently  
+- **Python**: programming, data manipulation, and automation  🐍
+- **Linux**: mastering operating systems and development environments 🐧
+- **SQL**: managing and querying databases efficiently 🗃️
 
 These core skills will prepare me to dive deeply into **Machine Learning** and **Deep Learning**, which are fundamental to understanding and applying **Artificial Intelligence**.
 
