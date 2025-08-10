@@ -23,26 +23,7 @@
 ### ⚙️ Tools & Platforms  
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<h2 style="font-size:1.5em; font-weight:bold;">📖 My Story</h2>
 
-<details>
-  <summary style="font-size:1.2em; cursor:pointer; user-select:none;">Click to read 🔍</summary>
-
-Since I was very young, I have been passionate about console video games, but everything changed when I was 14 years old and started to get interested in playing with a keyboard and mouse, especially Fortnite.
-
-At that time, I was using my dad's PC, which had integrated graphics and limited performance. Motivated by the desire to have a better setup, I taught myself almost everything about computers during that period: how each component works, how to assemble them, operating system optimization, and much more.
-
-Having limited hardware pushed me to constantly research and experiment to optimize its performance. During this process, I spent many hours exploring YouTube content and acquiring knowledge about hardware, software, and operating systems.
-
-At the same time, my internet connection was poor, which led me to study how networks and connections work to improve it. By diving deeper into this subject, I discovered how networks operate and developed a growing interest in privacy and personal cybersecurity.
-
-This knowledge of digital security opened doors to related fields such as investments, the financial market, finance, blockchain, and the web3 ecosystem. Amidst all this, one concept repeatedly caught my attention: artificial intelligence.
-
-Artificial intelligence became my primary motivation to learn programming and leverage technology, aiming not only to understand it but also to harness its full potential for the future.
-
-Recently, my brother acquired a high-performance PC that I now use to seriously pursue my goals. Currently, I am learning Python as a foundation to develop skills in artificial intelligence and progress toward a solid professional profile in technology.
-
-</details>
 
 ## 🎯 Learning Goals & Vision
 
@@ -85,6 +66,27 @@ This focused and strategic approach guides my continuous learning journey and ca
 **Date:**   
 
 **Link:** [repository](#)
+
+</details>
+
+<h2 style="font-size:1.5em; font-weight:bold;">📖 My Story</h2>
+
+<details>
+  <summary style="font-size:1.2em; cursor:pointer; user-select:none;">Click to read 🔍</summary>
+
+Since I was very young, I have been passionate about console video games, but everything changed when I was 14 years old and started to get interested in playing with a keyboard and mouse, especially Fortnite.
+
+At that time, I was using my dad's PC, which had integrated graphics and limited performance. Motivated by the desire to have a better setup, I taught myself almost everything about computers during that period: how each component works, how to assemble them, operating system optimization, and much more.
+
+Having limited hardware pushed me to constantly research and experiment to optimize its performance. During this process, I spent many hours exploring YouTube content and acquiring knowledge about hardware, software, and operating systems.
+
+At the same time, my internet connection was poor, which led me to study how networks and connections work to improve it. By diving deeper into this subject, I discovered how networks operate and developed a growing interest in privacy and personal cybersecurity.
+
+This knowledge of digital security opened doors to related fields such as investments, the financial market, finance, blockchain, and the web3 ecosystem. Amidst all this, one concept repeatedly caught my attention: artificial intelligence.
+
+Artificial intelligence became my primary motivation to learn programming and leverage technology, aiming not only to understand it but also to harness its full potential for the future.
+
+Recently, my brother acquired a high-performance PC that I now use to seriously pursue my goals. Currently, I am learning Python as a foundation to develop skills in artificial intelligence and progress toward a solid professional profile in technology.
 
 </details>
 
