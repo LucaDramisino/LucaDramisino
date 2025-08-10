@@ -13,7 +13,7 @@
 <h2 style="font-size:1.5em; font-weight:bold;">📖 My Story</h2>
 
 <details>
-  <summary style="font-size:1.2em; cursor:pointer; user-select:none;">Read 🔍</summary>
+  <summary style="font-size:1.2em; cursor:pointer; user-select:none;">Click to read 🔍</summary>
 
 Since I was very young, I have been passionate about console video games, but everything changed when I was 14 years old and started to get interested in playing with a keyboard and mouse, especially Fortnite.
 
