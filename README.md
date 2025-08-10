@@ -86,7 +86,7 @@ This knowledge of digital security opened doors to related fields such as invest
 
 Artificial intelligence became my primary motivation to learn programming and leverage technology, aiming not only to understand it but also to harness its full potential for the future.
 
-Recently, my brother acquired a high-performance PC that I now use to seriously pursue my goals. Currently, I am learning Python as a foundation to develop skills in artificial intelligence and progress toward a solid professional profile in technology.
+My brother acquired a high-performance PC that I now use to seriously pursue my goals. I am learning Python as a foundation to develop skills in artificial intelligence and progress toward a solid professional profile in technology.
 
 </details>
 
