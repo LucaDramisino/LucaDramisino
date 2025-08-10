@@ -10,6 +10,19 @@
 
 🚀 Aspiring tech professional focused on building strong foundations in **Python**, **Linux**, and **cybersecurity** to specialize in **Artificial Intelligence**, **automation**, and **high-value technical skills**.
 
+
+
+## 🛠 Technologies & Tools
+
+### 🖥 Operating Systems  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+
+### 💻 Programming Languages  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)  
+
+### ⚙️ Tools & Platforms  
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+
 <h2 style="font-size:1.5em; font-weight:bold;">📖 My Story</h2>
 
 <details>
@@ -30,19 +43,6 @@ Artificial intelligence became my primary motivation to learn programming and le
 Recently, my brother acquired a high-performance PC that I now use to seriously pursue my goals. Currently, I am learning Python as a foundation to develop skills in artificial intelligence and progress toward a solid professional profile in technology.
 
 </details>
-
-## 🛠 Technologies & Tools
-
-### 🖥 Operating Systems  
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-
-### 💻 Programming Languages  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)  
-
-### ⚙️ Tools & Platforms  
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
 
 ## 🎯 Learning Goals & Vision
 
